@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'Podemos te ajudar'
 weight: 1
 background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+button: 'Trabalhos'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Por meio de nossa equipe, podemos lhe oferecer um alto nível de análise estatística, desde problemas relacionados a mercado até acadêmico.
