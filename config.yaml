@@ -1,4 +1,4 @@
-baseURL: https://estatsej.github.io/estats-ej/
+baseURL: https://estatsej.netlify.com/estats-ej/
 languageCode: pt-br
 title: Estats Consultoria
 theme: hugo-hero-theme
