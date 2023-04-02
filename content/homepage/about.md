@@ -2,7 +2,7 @@
 title: 'Conheça sobre a ESTATS'
 weight: 2
 background: ''
-button: 'Sobre Nós'
+button: 'Sobre nós'
 buttonLink: 'about'
 ---
 
