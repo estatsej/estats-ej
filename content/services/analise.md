@@ -14,12 +14,12 @@ confiável. As principais metodologias aplicadas neste serviço são:
 
 ## Análise descritiva e exploratória dos dados:
 
-- Confecção de gráficos;
-- Resumo de dados a partir de tabelas de frequência e contingência.
+- ##### Confecção de gráficos;
+- ##### Resumo de dados a partir de tabelas de frequência e contingência.
 
 ## Análise e Modelagem dos dados:
 
-- Testes de Correlação;
-- Testes de Regressão;
-- Testes não paramétricos.
+- ##### Testes de Correlação;
+- ##### Testes de Regressão;
+- ##### Testes não paramétricos.
 

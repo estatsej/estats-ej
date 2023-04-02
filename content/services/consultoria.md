@@ -11,4 +11,4 @@ title: CONSULTORIA ACADÊMICA
 
 A consultoria estatística acadêmica é direcionada para pesquisadores da graduação, mestrado, doutorado e professores das diversas áreas do conhecimento, buscando sempre oferecer soluções para todas as etapas da pesquisa quantitativa, a um preço acessível.
 
-- Realizamos análises de dados para Teses, Dissertações, TCCs, PICs e PIBICs e projetos de pesquisa cientifica em geral.
+- ##### Realizamos análises de dados para Teses, Dissertações, TCCs, PICs, PIBICs e projetos de pesquisa cientifica em geral.

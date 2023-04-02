@@ -12,6 +12,8 @@ weight: 1
 
 A pesquisa de satisfação é uma das mais importantes ferramentas de gestão empresarial e tem como objetivo mensurar o que os clientes estão pensando, sentindo e fazendo sobre os produtos e serviços da empresa.
 
-- Conheça a imagem da sua empresa perante o seu público alvo;
-- Mensure a satisfação dos seus clientes com os serviços prestados;
-- Otimize a abordagem com os seus clientes.
+- ##### Conheça a imagem da sua empresa perante o seu público alvo;
+- ##### Mensure a satisfação dos seus clientes com os serviços prestados;
+- ##### Otimize a abordagem com os seus clientes.
+
+
