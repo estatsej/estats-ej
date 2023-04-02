@@ -33,9 +33,6 @@ menu:
     - name: Serviços
       url: /services/
       weight: 1
-    - name: Portifólio
-      url: /work/
-      weight: 2
     - name: Sobre nós
       url: /about/
       weight: 3
