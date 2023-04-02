@@ -6,4 +6,3 @@ button: 'Sobre nós'
 buttonLink: 'about'
 ---
 
-Testando 1 2

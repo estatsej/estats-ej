@@ -1,4 +1,4 @@
-baseURL: https://estatsej.github.io/estats-ej/
+baseURL: https://estatsej.netlify.app/
 languageCode: pt-br
 title: Estats Consultoria
 theme: hugo-hero-theme
@@ -30,19 +30,19 @@ params:
     mobile_width: 36px
 menu:
   main:
-    - name: Services
+    - name: Serviços
       url: /services/
       weight: 1
-    - name: Work
+    - name: Portifólio
       url: /work/
       weight: 2
-    - name: About
+    - name: Sobre nós
       url: /about/
       weight: 3
-    - name: History
+    - name: História
       url: /history/
       weight: 3
-    - name: Contact
+    - name: Contatos
       url: /contact/
       weight: 4
 permalinks:
