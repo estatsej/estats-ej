@@ -8,5 +8,18 @@
         "name": "Twitter",
         "link": "https://twitter.com/zerostaticio",
         "image": "social/twitter.svg"
+    },
+    {
+        "name": "WhatsApp",
+        "link": "https://api.whatsapp.com/send?phone=18997865465",
+        "image": "social/whatsapp.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/estatsej/",
+        "image": "social/instagram.svg"
     }
+
+    
+    
 ]
