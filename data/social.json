@@ -1,14 +1,5 @@
 [
-    {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
-        "image": "social/github.svg"
-    },
-    {
-        "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
-        "image": "social/twitter.svg"
-    },
+    
     {
         "name": "WhatsApp",
         "link": "https://api.whatsapp.com/send?phone=18997865465&text=Olá%2C%20quero%20receber%20informações%20sobre%20os%20serviços%20da%20Estats",
