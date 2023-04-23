@@ -18,8 +18,6 @@ params:
     meta_og_type: website
     meta_og_url: https://hugo-hero.netlify.app
     meta_twitter_card: summary
-    meta_twitter_creator: '@zerostaticio'
-    meta_twitter_site: '@zerostaticio'
   logo:
     alt: Hugo Hero
     desktop: images/logo.svg
