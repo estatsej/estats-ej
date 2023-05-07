@@ -34,9 +34,6 @@ menu:
     - name: Sobre nós
       url: /about/
       weight: 3
-    - name: História
-      url: /history/
-      weight: 3
     - name: Contatos
       url: /contact/
       weight: 4
