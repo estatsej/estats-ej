@@ -2,7 +2,7 @@
 date: "2018-11-18T12:33:46+10:00"
 draft: false
 featured: true
-heroBackground: services/service2.jpg
+heroBackground: ""
 heroHeading: 'CURSOS EM AMBIENTE ESTATÍSTICO R'
 heroSubHeading: Oferecemos cursos introdutórios de capacitação em R.
 icon: services/service-icon-6.png
