@@ -19,7 +19,7 @@ params:
     meta_og_url: https://hugo-hero.netlify.app
     meta_twitter_card: summary
   logo:
-    alt: Hugo Hero
+    alt: Estats
     desktop: images/estatslogo.png
     desktop_height: 29px
     desktop_width: 217px
