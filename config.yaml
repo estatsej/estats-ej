@@ -7,7 +7,7 @@ module:
     extended: yes
     min: 0.92.0
 params:
-  google_analytics_id: ''
+  google_analytics_id: 'G-X7ZPHTZQWS'
   homepage_meta_tags:
     meta_description: Transformando seus dados em soluções.
     meta_og_description: Transformando seus dados em soluções.
