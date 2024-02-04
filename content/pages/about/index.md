@@ -2,7 +2,7 @@
 date: "2018-12-06T09:29:16+10:00"
 heroBackground: ""
 heroHeading: ESTATS
-heroSubHeading: Consultoria estatistica.
+heroSubHeading: Consultoria estatística.
 layout: about
 title: Sobre Nós
 ---
