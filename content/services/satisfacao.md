@@ -5,7 +5,7 @@ featured: true
 heroBackground: ""
 heroHeading: 'PESQUISA DE SATISFAÇÃO'
 heroSubHeading: O que seu público pensa de você?
-icon: static/services/icon-satisfacao.png
+icon: services/service-icon-1.png
 title: PESQUISA DE SATISFAÇÃO
 weight: 1
 ---
