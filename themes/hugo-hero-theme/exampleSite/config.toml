@@ -13,9 +13,9 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
-    mobile_height = "36px"
-    mobile_width = "36px"
+    mobile = "images/favicon.ico"
+    mobile_height = "148px"
+    mobile_width = "148px"
     desktop = "images/logo.svg"
     desktop_height = "29px"
     desktop_width = "217px"
