@@ -5,7 +5,7 @@ featured: true
 heroBackground: ""
 heroHeading: 'CURSOS EM AMBIENTE ESTATÍSTICO R'
 heroSubHeading: Oferecemos cursos introdutórios de capacitação em R.
-icon: services/service-icon-6.png
+icon: services/icon-curso.png
 title: CURSOS EM AMBIENTE ESTATÍSTICO R
 weight: 2
 ---

@@ -2,7 +2,7 @@
 date: "2018-11-18T12:33:46+10:00"
 draft: false
 featured: true
-heroBackground: ""
+heroBackground: services/service1.jpg
 heroHeading: 'PESQUISA DE SATISFAÇÃO'
 heroSubHeading: O que seu público pensa de você?
 icon: services/icon-satisfacao.png
