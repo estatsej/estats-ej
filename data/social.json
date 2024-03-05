@@ -9,8 +9,14 @@
         "name": "Instagram",
         "link": "https://www.instagram.com/estatsej/",
         "image": "social/instagram.svg"
+    },
+    {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/estats-consultoria/",
+        "image": "social/linkedin.svg"
+        
+        
     }
-
     
     
 ]
