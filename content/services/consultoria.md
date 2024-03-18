@@ -5,7 +5,7 @@ featured: true
 heroBackground: ""
 heroHeading: 'CONSULTORIA ACADÊMICA'
 heroSubHeading: Oferecemos cursos introdutórios de capacitação em R.
-icon: services/service-icon-6.png
+icon: services/icon-consultoria.png
 title: CONSULTORIA ACADÊMICA
 ---
 

@@ -5,7 +5,7 @@ featured: true
 heroBackground: ""
 heroHeading: 'PESQUISA DE MERCADO'
 heroSubHeading: Vamos empreender juntos.
-icon: services/service-icon-2.png
+icon: services/icon-mercado.png
 title: PESQUISA DE MERCADO
 ---
 
