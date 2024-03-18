@@ -5,7 +5,7 @@ featured: true
 heroBackground: ""
 heroHeading: 'PLANEJAMENTO E ANÁLISE DE EXPERIMENTOS'
 heroSubHeading: Otimizando sua pesquisa.
-icon: services/service-icon-4.png
+icon: services/icon-analise.png
 title: PLANEJAMENTO E ANÁLISE DE EXPERIMENTOS
 ---
 
