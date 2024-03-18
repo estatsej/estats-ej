@@ -5,7 +5,7 @@ featured: true
 heroBackground: ""
 heroHeading: 'ANÁLISE DE BANCOS DE DADOS'
 heroSubHeading: Extração de informações.
-icon: services/service-icon-5.png
+icon: services/icon-banco.png
 title: ANÁLISE DE BANCOS DE DADOS
 ---
 

@@ -5,7 +5,7 @@ featured: true
 heroBackground: ""
 heroHeading: 'PLANO AMOSTRAL'
 heroSubHeading: Pensar antes de agir.
-icon: services/service-icon-3.png
+icon: services/icon-amostral.png
 title: PLANO AMOSTRAL
 ---
 
