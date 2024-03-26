@@ -1,6 +1,6 @@
 ---
 align: left
-background: ""
+background: 'images/sobre03.jpg'
 button: Entre em contato
 buttonLink: contact
 date: "2018-12-06T09:29:16+10:00"
