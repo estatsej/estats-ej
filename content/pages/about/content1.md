@@ -1,6 +1,6 @@
 ---
 align: right
-background: 'images/sobre01.jpg'
+background: 'images/sobre04.jpg'
 date: "2018-12-06T09:29:16+10:00"
 title: A EMPRESA
 weight: 1
