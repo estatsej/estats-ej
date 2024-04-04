@@ -1,5 +1,5 @@
 ---
-align: left
+align: right
 background: 'images/sobre02.jpg'
 date: "2018-12-06T09:29:16+10:00"
 title: MISSÃO, VISÃO E VALORES
